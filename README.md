@@ -28,6 +28,7 @@ The temperature of the City selected in the program will be displayed.
 Weather of the selected City will be shown with icons in the program.
 The temperature of the selected city in the app is shown in C. In addition, the weather forecast is also displayed with icons
 
-USE DIAGRAM
+<img width="458" alt="Ekran Resmi 2023-03-30 18 25 34" src="https://user-images.githubusercontent.com/119704176/228943725-79ab402e-89ae-4eac-8665-a43bef1a8ea2.png">
+
 
 

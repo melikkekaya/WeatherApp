@@ -39,11 +39,12 @@ CLASS DIADRAM
 
 
  USE  CASE DIAGRAM
+ 
+ 
 <img width="832" alt="Ekran Resmi 2023-03-29 14 13 37" src="https://user-images.githubusercontent.com/119704176/228944060-77b20a0e-6b5e-4aa3-b620-a529f6ce0aa3.png">
 
 
 
-<img width="291" alt="Ekran Resmi 2023-03-30 18 25 49" src="https://user-images.githubusercontent.com/119704176/228943920-5eeac4de-d64f-40dc-927a-989feeb5e9a0.png">
 
 
 

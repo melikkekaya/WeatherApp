@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>rain2.gif</file>
+    <file>sunny.gif</file>
+    <file>thunder.gif</file>
+    <file>log-out.png</file>
+    <file>rain.gif</file>
+    <file>mist.gif</file>
+    <file>snow.gif</file>
+    <file>drizzle.gif</file>
+    <file>giphy-3.gif</file>
+    <file>information.png</file>
+    <file>clouds.png</file>
+  </qresource>
+</RCC>
